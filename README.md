@@ -6,6 +6,7 @@ I'm a BCA student with a strong interest in Engineering. </br>
 - Bug Bounty & Web Security
 - Linux & Networking
 - Python Programming
+- web3
   
 ## Skills
 - Programming: Python, C,
