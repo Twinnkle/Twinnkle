@@ -1,5 +1,5 @@
-# Hi, I'm Twinkle
-I'm a BCA student with a strong interest in Engineering. </br>
+# Hi, I'm Kurkure
+BCA student with a strong interest in Engineering. </br>
 
 ---
 ## Interests
