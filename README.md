@@ -3,8 +3,7 @@ BCA student with a strong interest in Engineering. </br>
 
 ---
 ## Interests
-- Bug Bounty & Web Security
-- Linux & Networking
+- Linux
 - Python Programming
 - web3
   
